@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "What does MERN stand for?",
+    "answers": [
+      {
+        "text": "MongoDB, Express, React, Node.js",
+        "isCorrect": true
+      },
+      {
+        "text": "MySQL, Express, React, Node.js",
+        "isCorrect": false
+      },
+      {
+        "text": "Mongo, Ember, React, Node.js",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is JSX in React?",
+    "answers": [
+      {
+        "text": "A CSS extension for styling React components",
+        "isCorrect": false
+      },
+      {
+        "text": "A syntax extension for JavaScript that looks like HTML",
+        "isCorrect": true
+      },
+      {
+        "text": "A built-in React hook for side effects",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Which React hook lets you add state to functional components?",
+    "answers": [
+      {
+        "text": "useEffect",
+        "isCorrect": false
+      },
+      {
+        "text": "useState",
+        "isCorrect": true
+      },
+      {
+        "text": "useContext",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "In Express.js, which method handles HTTP GET requests?",
+    "answers": [
+      {
+        "text": "app.post()",
+        "isCorrect": false
+      },
+      {
+        "text": "app.get()",
+        "isCorrect": true
+      },
+      {
+        "text": "app.put()",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Which HTTP status code means 'Not Found'?",
+    "answers": [
+      {
+        "text": "200",
+        "isCorrect": false
+      },
+      {
+        "text": "404",
+        "isCorrect": true
+      },
+      {
+        "text": "500",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Which MongoDB data model type is it classified as?",
+    "answers": [
+      {
+        "text": "Relational",
+        "isCorrect": false
+      },
+      {
+        "text": "Key-Value",
+        "isCorrect": false
+      },
+      {
+        "text": "Document-Oriented",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Which JavaScript operator checks for both value and type equality?",
+    "answers": [
+      {
+        "text": "=",
+        "isCorrect": false
+      },
+      {
+        "text": "==",
+        "isCorrect": false
+      },
+      {
+        "text": "===",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Which command installs all dependencies listed in package.json?",
+    "answers": [
+      {
+        "text": "npm init",
+        "isCorrect": false
+      },
+      {
+        "text": "npm install",
+        "isCorrect": true
+      },
+      {
+        "text": "npm run install",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "In vanilla JS, which method selects the first matching element by CSS selector?",
+    "answers": [
+      {
+        "text": "getElementById()",
+        "isCorrect": false
+      },
+      {
+        "text": "querySelector()",
+        "isCorrect": true
+      },
+      {
+        "text": "getElementsByClassName()",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "What command starts the Vite development server (per package.json)?",
+    "answers": [
+      {
+        "text": "npm run start",
+        "isCorrect": false
+      },
+      {
+        "text": "npm run dev",
+        "isCorrect": true
+      },
+      {
+        "text": "npm run build",
+        "isCorrect": false
+      }
+    ]
+  }
+]
