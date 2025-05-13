@@ -5,7 +5,7 @@ A simple MERN‐stack quiz application that lets users test their knowledge with
 
 ## 🔗 Live Demo & Walkthrough Video
 
-- **Walkthrough Video:** _[[(https://app.screencastify.com/v3/watch/WVZGy6HCiMTW6GCGEaIL)]_  
+- **Walkthrough Video:** _((https://app.screencastify.com/v3/watch/WVZGy6HCiMTW6GCGEaIL))_  
   Shows all tests passing and starting both client and server.
 
 ---
